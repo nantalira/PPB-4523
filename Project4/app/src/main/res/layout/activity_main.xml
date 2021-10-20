@@ -1,113 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/softBlack"
+    android:orientation="vertical"
     tools:context=".MainActivity">
-
+    
     <TextView
-        android:id="@+id/txttitle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Create your MOBA hero"
-        android:textAlignment="center"
+        android:text="PILIHAN"
         android:textSize="30dp"
-        android:textColor="@color/hardGrey"/>
-
-    <EditText
-        android:id="@+id/name"
+        />
+    <Spinner
+        android:id="@+id/combodata"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        />
+    <ListView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/txttitle"
-        android:layout_marginTop="10dp"
-        android:hint="Name"
-        android:textColorHint="@color/lowHardGrey"
-        android:textColor="@color/hardGrey"
-        android:textSize="25dp" />
-
-    <EditText
-        android:id="@+id/classes"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="Class"
-        android:textSize="25dp"
-        android:layout_below="@+id/name"
-        android:textColorHint="@color/lowHardGrey"
-        android:textColor="@color/hardGrey"/>
-
-    <EditText
-        android:id="@+id/role"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/classes"
-        android:hint="Role"
-        android:textSize="25dp"
-        android:textColorHint="@color/lowHardGrey"
-        android:textColor="@color/hardGrey"/>
-
-    <EditText
-        android:id="@+id/speciality"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/role"
-        android:hint="Speciality"
-        android:textSize="25dp"
-        android:textColorHint="@color/lowHardGrey"
-        android:textColor="@color/hardGrey"/>
-
-    <EditText
-        android:id="@+id/difficulty"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/speciality"
-        android:hint="Difficulty"
-        android:textSize="25dp"
-        android:textColorHint="@color/lowHardGrey"
-        android:textColor="@color/hardGrey"/>
-
-    <Button
-        android:id="@+id/btnInsert"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/difficulty"
-        android:layout_marginTop="10dp"
-        android:text="Insert"
-        android:textSize="25dp"
-        android:backgroundTint="@color/darkGrey"
-        android:textColor="@color/hardGrey"/>
-
-    <Button
-        android:id="@+id/btnEdit"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/btnInsert"
-        android:layout_marginTop="5dp"
-        android:text="Edit"
-        android:textSize="25dp"
-        android:backgroundTint="@color/darkGrey"
-        android:textColor="@color/hardGrey"/>
-    <Button
-        android:id="@+id/btnDelete"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="25dp"
-        android:text="Delete"
-        android:layout_marginTop="5dp"
-        android:layout_below="@+id/btnEdit"
-        android:backgroundTint="@color/darkGrey"
-        android:textColor="@color/hardGrey"/>
-    <Button
-        android:id="@+id/btnView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textSize="25dp"
-        android:text="View"
-        android:layout_marginTop="5dp"
-        android:layout_below="@+id/btnDelete"
-        android:backgroundTint="@color/darkGrey"
-        android:textColor="@color/hardGrey"/>
+        android:id="@+id/listData"
+        android:layout_weight="1"
+        />
 
 
-</RelativeLayout>
+</LinearLayout>
