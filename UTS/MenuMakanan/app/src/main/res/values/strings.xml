@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string-array name="menuMakanan">
+        <item>Megono</item>
+        <item>Lontong Lemprak</item>
+        <item>Serabi Kalibeluk</item>
+        <item>Soto Kebo</item>
+        <item>Carabikang</item>
+        <item>Sotong Ireng</item>
+    </string-array>
+
+    <string-array name="deskripsiMakanan">
+        <item>
+            Megono ini terbuat cacahan nangka muda yang dimasak dengan kelapa parut, bunga kecombrang, daun melinjo, dan racikan bumbu lainnya. Aneka lauk pauk khas bisa dipilih untuk menemani nasi megono, seperti koyor/otot, telur balado, dan tempe mendoan.
+        </item>
+        <item>
+            Lontong Lemprak berisi lontong dan opor ayam yang dibumbui dengan rempah-rempah seperti merica, kunyit, bawang, bawang merah, gula aren, daun salam, dan akar sirih.
+            Makanan ini biasanya dimakan sambil duduk lesehan atau "nglemprak".
+        </item>
+        <item>
+            Serabi ini berukuran cukup besar dan tebal bercita rasa legit manis dan gurih. Varian rasa Serabi Kalibeluk pada awalnya hanya Rasa Original dan Rasa Gula jawa. Tapi seiring perkembangan jaman, banyak varian rasa seperti rasa Strawberry, coklat, dan kelapa.
+        </item>
+        <item>
+            Yang membedakan Soto ini dengan yang lain yaitu terletak pada daging yang digunakan yaitu daging kerbau.
+            Selain porsinya besar, bumbunya terasa lebih menyengat aroma rempah dan rasa daging kerbaunya yang disayat kotak menebarkan bau khas yang sedap.
+        </item>
+        <item>
+            Kue Carabikang ini mirip dengan serabi namun berwarna-warni sehingga pada bagian atasnya mekar serta bagian bawahnya agak kehitaman dan gosong. Yang membedakan dengan serabi adalah corobikang tidak menggunakan santan untuk dihidangkan.
+        </item>
+        <item>
+            Sotong ireng ini merupakan masakan dari olahan cumi yang dalam pengolahannya turut mengikutsertakan tintanya sehingga menghasilkan warna hitam.kemudian digoreng serta ditumis dengan menggunakan bumbu tertentu setelah itu diberi santan.
+        </item>
+    </string-array>
+
+    <string-array name="hargaMakanan">
+        <item>Rp 3,000</item>
+        <item>Rp 20,000</item>
+        <item>Rp 10,000</item>
+        <item>Rp 12,000</item>
+        <item>Rp 2,500</item>
+        <item>Rp 7,000</item>
+    </string-array>
+
+    <string-array name="ratingMakanan">
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.7</item>
+        <item>3.3</item>
+        <item>3.8</item>
+        <item>3.7</item>
+    </string-array>
+</resources>
