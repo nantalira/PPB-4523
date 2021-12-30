@@ -20,7 +20,7 @@ import com.example.project10.databinding.ActivityMapsBinding;
 public class MapsActivity extends FragmentActivity implements AdapterView.OnItemClickListener, AdapterView.OnItemSelectedListener, OnMapReadyCallback {
 
     private GoogleMap mMap;
-    public static final String nama_pulau[] ={"Sumatera","Jawa", "Kalimantan", "Sulawesi","Bali", "NTB", "NTT", "Maluku", "Papua"};
+    public static final String nama_pulau[] ={"Pilih Pulau", "Sumatera","Jawa", "Kalimantan", "Sulawesi","Bali", "NTB", "NTT", "Maluku", "Papua"};
     Spinner spinner;
 
     @Override
@@ -50,25 +50,26 @@ public class MapsActivity extends FragmentActivity implements AdapterView.OnItem
         switch (position) {
             case 0:
                 mMap.clear();
-                LatLng aceh = new LatLng(4.0284529, 92.1498244);
+                break;
+            case 1:
+                mMap.clear();
+                LatLng aceh = new LatLng(5.5611009,95.2935971);
                 mMap.addMarker(new MarkerOptions().position(aceh).title("Aceh"));
                 mMap.moveCamera(CameraUpdateFactory.newLatLng(aceh));
 
-                LatLng sumut = new LatLng(1.8256526, 92.1498244);
+                LatLng sumut = new LatLng(3.6422756,98.5290638);
                 mMap.addMarker(new MarkerOptions().position(sumut).title("Sumatra Utara"));
                 mMap.moveCamera(CameraUpdateFactory.newLatLng(sumut));
 
-                LatLng sumbar = new LatLng(-1.5515574, 95.7457267);
+                LatLng sumbar = new LatLng(-0.9345808,100.2508401);
                 mMap.addMarker(new MarkerOptions().position(sumbar).title("Sumatra Barat"));
                 mMap.moveCamera(CameraUpdateFactory.newLatLng(sumbar));
 
-                LatLng sumsel = new LatLng(-3.2653252, 99.6293047);
+                LatLng sumsel = new LatLng(-2.9549663,104.6927524);
                 mMap.addMarker(new MarkerOptions().position(sumsel).title("Sumatra Selatan"));
                 mMap.moveCamera(CameraUpdateFactory.newLatLng(sumsel));
 
                 break;
-            case 1:
-
             case 2:
 
             case 3:
