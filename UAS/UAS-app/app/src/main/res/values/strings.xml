@@ -1,0 +1,179 @@
+<resources>
+    <string name="app_name">Menu Makanan</string>
+    <string-array name="menuMakanan">
+        <item>Megono</item>
+        <item>Lontong Lemprak</item>
+        <item>Mie</item>
+        <item>Buger</item>
+        <item>Sate Wedus</item>
+        <item>Sate Jagung</item>
+
+    </string-array>
+
+    <string-array name="menuMakanan2">
+        <item>Serabi Kalibeluk</item>
+        <item>Soto Kebo</item>
+        <item>Es Krim</item>
+        <item>Mie dua dua</item>
+    </string-array>
+
+    <string-array name="menuMakanan3">
+        <item>Carabikang</item>
+        <item>Sotong Ireng</item>
+        <item>Sate Salim</item>
+        <item>Mie tiga saudara</item>
+    </string-array>
+
+    <string-array name="menuMakanan4">
+        <item>Megono</item>
+        <item>Lontong Lemprak</item>
+        <item>Serabi Kalibeluk</item>
+        <item>Soto Kebo</item>
+        <item>Carabikang</item>
+        <item>Sotong Ireng</item>
+    </string-array>
+
+    <string-array name="deskripsiMakanan">
+        <item>
+            Megono ini terbuat cacahan nangka muda yang dimasak dengan kelapa parut, bunga kecombrang, daun melinjo, dan racikan bumbu lainnya. Aneka lauk pauk khas bisa dipilih untuk menemani nasi megono, seperti koyor/otot, telur balado, dan tempe mendoan.
+        </item>
+        <item>
+            Lontong Lemprak berisi lontong dan opor ayam yang dibumbui dengan rempah-rempah seperti merica, kunyit, bawang, bawang merah, gula aren, daun salam, dan akar sirih.
+            Makanan ini biasanya dimakan sambil duduk lesehan atau "nglemprak".
+        </item>
+        <item>
+             Mie memang merupakan salah satu hasil perpaduan budaya Melayu dan Tionghoa. Bila dilihat sekilas, tampilan mie sangat mirip dengan lo mie asal China bagian selatan. Namun, memiliki warna yang lebih pucat. Warnanya cenderung putih keruh dan disajikan dengan kaldu udang beraroma kuat.
+        </item>
+        <item>
+            Burger adalah sejenis makanan berupa roti berbentuk bundar yang diiris dua dan di tengahnya diisi dengan patty yang biasanya diambil dari daging, kemudian sayur-sayuran berupa selada, tomat dan bawang bombai. Sebagai sausnya, burger diberi berbagai jenis saus seperti mayones, saus tomat dan sambal serta mustard.
+        </item>
+        <item>
+            Sate kambing adalah sejenis makanan sate terbuat dari daging kambing. Daging kambing tersebut disate dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar. Penyajiannya disajikan bersama lalapan kubis, tomat, dan bawang merah yang diiris tipis kemudian diberi kecap dan ditambahkan taburan merica.
+        </item>
+        <item>
+            Sate jagung adalah sejenis makanan sate terbuat dari Jagung tua. jagung tersebut disate dan dibumbui dengan saus dan kecap, kemudian dibakar.
+        </item>
+    </string-array>
+
+    <string-array name="deskripsiMakanan2">
+        <item>
+            Serabi ini berukuran cukup besar dan tebal bercita rasa legit manis dan gurih. Varian rasa Serabi Kalibeluk pada awalnya hanya Rasa Original dan Rasa Gula jawa. Tapi seiring perkembangan jaman, banyak varian rasa seperti rasa Strawberry, coklat, dan kelapa.
+        </item>
+        <item>
+            Yang membedakan Soto ini dengan yang lain yaitu terletak pada daging yang digunakan yaitu daging kerbau.
+            Selain porsinya besar, bumbunya terasa lebih menyengat aroma rempah dan rasa daging kerbaunya yang disayat kotak menebarkan bau khas yang sedap.
+        </item>
+        <item>
+            Es krim adalah sebuah makanan beku dibuat dari produk susu seperti krim (atau sejenisnya), digabungkan dengan perasa dan pemanis buatan ataupun alami. Campuran ini didinginkan dengan mengaduk sambil mengurangi suhunya untuk mencegah pembentukan kristal es besar.
+        </item>
+        <item>
+             Mie memang merupakan salah satu hasil perpaduan budaya Melayu dan Tionghoa. Bila dilihat sekilas, tampilan mie sangat mirip dengan lo mie asal China bagian selatan. Namun, memiliki warna yang lebih pucat. Warnanya cenderung putih keruh dan disajikan dengan kaldu udang beraroma kuat.
+        </item>
+
+    </string-array>
+
+    <string-array name="deskripsiMakanan3">
+        <item>
+            Kue Carabikang ini mirip dengan serabi namun berwarna-warni sehingga pada bagian atasnya mekar serta bagian bawahnya agak kehitaman dan gosong. Yang membedakan dengan serabi adalah corobikang tidak menggunakan santan untuk dihidangkan.
+        </item>
+        <item>
+            Sotong ireng ini merupakan masakan dari olahan cumi yang dalam pengolahannya turut mengikutsertakan tintanya sehingga menghasilkan warna hitam.kemudian digoreng serta ditumis dengan menggunakan bumbu tertentu setelah itu diberi santan.
+        </item>
+        <item>
+            Sate Salim adalah sejenis makanan sate terbuat dari daging sapi yang alim. Daging sapi tersebut disate dan dibumbui dengan rempah-rempah dan bumbu dapur, kemudian dibakar.
+            Penyajiannya disajikan bersama lalapan kubis, tomat, dan bawang merah yang diiris tipis kemudian diberi kecap dan ditambahkan taburan merica.
+        </item>
+        <item>
+            Mie ini sudah diwariskan lebih dari tiga saudara namun rasanya tidak pernah berubah. salah satu ciri khasnya adalah warna yang lebih pucat. Warnanya cenderung putih keruh dan disajikan dengan kaldu udang beraroma kuat.
+        </item>
+    </string-array>
+
+    <string-array name="deskripsiMakanan4">
+        <item>
+            Megono ini terbuat cacahan nangka muda yang dimasak dengan kelapa parut, bunga kecombrang, daun melinjo, dan racikan bumbu lainnya. Aneka lauk pauk khas bisa dipilih untuk menemani nasi megono, seperti koyor/otot, telur balado, dan tempe mendoan.
+        </item>
+        <item>
+            Lontong Lemprak berisi lontong dan opor ayam yang dibumbui dengan rempah-rempah seperti merica, kunyit, bawang, bawang merah, gula aren, daun salam, dan akar sirih.
+            Makanan ini biasanya dimakan sambil duduk lesehan atau "nglemprak".
+        </item>
+        <item>
+            Serabi ini berukuran cukup besar dan tebal bercita rasa legit manis dan gurih. Varian rasa Serabi Kalibeluk pada awalnya hanya Rasa Original dan Rasa Gula jawa. Tapi seiring perkembangan jaman, banyak varian rasa seperti rasa Strawberry, coklat, dan kelapa.
+        </item>
+        <item>
+            Yang membedakan Soto ini dengan yang lain yaitu terletak pada daging yang digunakan yaitu daging kerbau.
+            Selain porsinya besar, bumbunya terasa lebih menyengat aroma rempah dan rasa daging kerbaunya yang disayat kotak menebarkan bau khas yang sedap.
+        </item>
+        <item>
+            Kue Carabikang ini mirip dengan serabi namun berwarna-warni sehingga pada bagian atasnya mekar serta bagian bawahnya agak kehitaman dan gosong. Yang membedakan dengan serabi adalah corobikang tidak menggunakan santan untuk dihidangkan.
+        </item>
+        <item>
+            Sotong ireng ini merupakan masakan dari olahan cumi yang dalam pengolahannya turut mengikutsertakan tintanya sehingga menghasilkan warna hitam.kemudian digoreng serta ditumis dengan menggunakan bumbu tertentu setelah itu diberi santan.
+        </item>
+    </string-array>
+
+
+    <string-array name="hargaMakanan">
+        <item>Rp 3,000</item>
+        <item>Rp 20,000</item>
+        <item>Rp 2,500</item>
+        <item>Rp 7,000</item>
+        <item>Rp 10,000</item>
+        <item>Rp 12,000</item>
+    </string-array>
+    <string-array name="hargaMakanan2">
+        <item>Rp 10,000</item>
+        <item>Rp 12,000</item>
+        <item>Rp 12,000</item>
+        <item>Rp 2,500</item>
+    </string-array>
+    <string-array name="hargaMakanan3">
+        <item>Rp 2,500</item>
+        <item>Rp 7,000</item>
+        <item>Rp 20,000</item>
+        <item>Rp 10,000</item>
+    </string-array>
+    <string-array name="hargaMakanan4">
+        <item>Rp 3,000</item>
+        <item>Rp 20,000</item>
+        <item>Rp 10,000</item>
+        <item>Rp 12,000</item>
+        <item>Rp 2,500</item>
+        <item>Rp 7,000</item>
+    </string-array>
+
+    <string-array name="ratingMakanan">
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.5</item>
+        <item>3.7</item>
+        <item>3.8</item>
+        <item>3.7</item>
+
+    </string-array>
+
+    <string-array name="ratingMakanan2">
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.3</item>
+        <item>3.8</item>
+
+    </string-array>
+
+    <string-array name="ratingMakanan3">
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.7</item>
+        <item>3.8</item>
+    </string-array>
+
+    <string-array name="ratingMakanan4">
+        <item>3.9</item>
+        <item>3.5</item>
+        <item>3.7</item>
+        <item>3.3</item>
+        <item>3.8</item>
+        <item>3.7</item>
+    </string-array>
+
+
+</resources>
